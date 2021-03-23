@@ -39,9 +39,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![]()
-
-* please note I have attached part 1, 2, and 3 of my game demo. The gif that includes a half-screen of code was added on because I found that whenever I opened my game in a full size window the sound would not play. However, if kept at half-page the sound works nicely. I'm not sure if others encountered this issue or if it has to do with my browser settings
+The following gif shows the webpage with game title and buttons, game button behavior, and start/end button behavior
+![](http://g.recordit.co/hHgtrDRpgF.gif)
+The following gif shows that the buttons change color when playing audio and when clicked by user. It also shows that the game runs on a pre-determined pattern that is unknown to the user. Lastly, we can see that the user gets an alert if they have lost the game and this terminates the game for them 
+![](http://g.recordit.co/vyrs2F2Syv.gif) 
+The following gif shows the alert to the user when they win the game 
+![](http://g.recordit.co/KzbKAw4VzU.gif) 
 
 ## Reflection Questions
 

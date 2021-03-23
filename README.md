@@ -42,7 +42,7 @@ Here's a walkthrough of implemented user stories:
 The following gif shows the webpage with game title and buttons, game button behavior, and start/end button behavior
 ![](http://g.recordit.co/hHgtrDRpgF.gif)
 The following gif shows that the buttons change color when playing audio and when clicked by user. It also shows that the game runs on a pre-determined pattern that is unknown to the user. Lastly, we can see that the user gets an alert if they have lost the game and this terminates the game for them 
-![](http://g.recordit.co/vyrs2F2Syv.gif) 
+![](http://g.recordit.co/i1NeuRctUQ.gif) 
 The following gif shows the alert to the user when they win the game 
 ![](http://g.recordit.co/KzbKAw4VzU.gif) 
 

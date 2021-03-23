@@ -1,0 +1,75 @@
+/* CSS files add styling rules to your content
+check out the different colors to give site a new look
+on h1 we can change italic and color*/
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: lightgray;
+  color: black; 
+}
+
+h1 {
+  font-style: italic;
+  color: gray;
+  font-family: verdana, arial, sans-serif;
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+/*green */
+#button1 {
+    background: mediumseagreen;
+}
+/*blue */
+#button2 {
+    background: turquoise;
+}
+/*pink*/
+#button3 {
+    background: 	hotpink;
+}
+/*orange */
+#button4 {
+    background: darkorange;
+}
+
+/*additional feature purple*/
+#button5 {
+    background: mediumslateblue;
+}
+
+/* changes the color of the button when being clicked
+for the duration of the click OR when the CSS class has lit it*/
+#button1:active, #button1.lit {
+    background:darkgreen;
+}
+
+#button2:active, #button2.lit {
+    background:mediumblue;
+}
+
+#button3:active, #button3.lit {
+    background:red;
+}
+
+#button4:active, #button4.lit {
+    background:yellow;
+}
+
+#button5:active, #button5.lit {
+    background:blue;
+}
+
+/* elements that belong to the class 'hiden' should behave in this way*/
+.hidden {
+  display: none;
+}
